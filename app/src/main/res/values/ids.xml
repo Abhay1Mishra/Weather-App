@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="presser" type="id" />
+    <item name="pressure" type="id" />
+    <item name="min_temp" type="id" />
+</resources>
